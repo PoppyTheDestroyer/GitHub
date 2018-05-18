@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0821AD3E-3D90-4DBE-A735-C3AD5EEEA8BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../09-11-2017-UTA-Houston-Class-Repository-FSF/T-TH-Class-Content/01-Class-Content/21-regionalized-content/01-Activities/01-Console-IO/Examples/Program.cs">
+    <Files>
+      <File FileName="../../09-11-2017-UTA-Houston-Class-Repository-FSF/T-TH-Class-Content/01-Class-Content/21-regionalized-content/01-Activities/01-Console-IO/Examples/Program.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

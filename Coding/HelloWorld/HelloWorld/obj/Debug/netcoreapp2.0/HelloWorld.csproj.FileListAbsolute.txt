@@ -1,0 +1,11 @@
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.json
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.dev.json
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.pdb
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csprojResolveAssemblyReference.cache
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/jasonsaenz/GitHub/Coding/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.pdb
