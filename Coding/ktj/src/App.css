@@ -23,6 +23,21 @@
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#busLogo {
+  width: 35%;
+  height: auto;
+  margin: 20px;
+}
+
+.high {
+  margin: 50px 10px;
+  float: right;
 }
